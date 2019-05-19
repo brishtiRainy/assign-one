@@ -1,0 +1,28 @@
+div{    background-color: #90e4ecbd;
+    width: 1500px;
+    margin: auto;
+    text-align: center;}
+    table{     width: 100%;
+    width: 100%;
+    background-color: #1c1256;
+    padding: 99px; }
+    tr{background-color: aliceblue;}
+    td{    text-align: left;
+    color: teal;
+    font-size: large;
+    font-style: normal}
+    th{  background-color: #262a61;
+    padding: 5px;
+    text-decoration: underline;
+    color: aliceblue;
+    size: 40px}
+    th{    background-color: #d42184;
+    padding: 5px;
+    text-decoration: underline;
+    color: aliceblue;
+    size: 40px;
+    text-align: center}
+    td{    color: teal;
+    font-size: large;
+    font-style: normal;
+    text-align: center}
